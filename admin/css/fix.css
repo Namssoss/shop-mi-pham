@@ -1,0 +1,29 @@
+.error{
+ font-size: 1rem;
+ color: red;
+}
+
+.success{
+    font-size: 1rem;
+    color: green;
+}
+
+.error2{
+    font-size: 2rem;
+    color: red;
+   }
+   
+   .success2{
+       font-size: 2rem;
+       color: green;
+   }
+/* login */
+.hd-login{
+    height: 84px;
+    padding-top: 20px;
+    color: white;
+}
+
+.hd-login_left_img{
+    width: 130px;
+}

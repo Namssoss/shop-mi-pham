@@ -1,0 +1,45 @@
+.bodys_hd{
+    text-align: center;
+}
+
+h1{
+    font-size: 2.6rem;
+    color: #555;
+    margin-top: 30px;
+}
+
+.gach{
+    margin: 0 auto;
+    width: 40px;
+    height: 4px;
+    background-color: var(--primary-color);
+}
+
+.bodys_bd{
+    margin-top: 30px !important;
+    font-size: 1.6rem;
+    color: #555;
+}
+
+p{
+    margin-bottom: 20px;
+}
+
+.info_ct{
+    margin-bottom: 10px;
+}
+
+/* huong dan mua hang */
+h2{
+    font-size: 1.6rem;
+}
+
+/* gioi thieu */
+.bodys_bd div{
+    line-height: 2.2rem;
+}
+
+li p {
+    margin: 5px 0;
+}
+
